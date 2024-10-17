@@ -1,0 +1,1 @@
+Data and code for Assignment 2 essay, little documentation as only word document submitted for assignment.
